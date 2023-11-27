@@ -1,0 +1,8 @@
+@font-face {
+  font-family: nasalization;
+  src: url(nasalization-rg.otf);
+}
+
+div {
+  font-family: nasalization;
+}
